@@ -9,9 +9,9 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![License](https://img.shields.io/badge/License-GPLv3-4CAF50?style=for-the-badge)](LICENSE)
 
-[![Last Commit](https://img.shields.io/github/last-commit/axs-offcl/ChPeek?style=flat-square&label=last%20commit&cacheSeconds=600)](https://github.com/axs-offcl/ChPeek/commits)
-[![Repo Size](https://img.shields.io/github/repo-size/axs-offcl/ChPeek?style=flat-square&label=repo%20size&cacheSeconds=600)](https://github.com/axs-offcl/ChPeek)
-[![Stars](https://img.shields.io/github/stars/axs-offcl/ChPeek?style=flat-square&label=stars)](https://github.com/axs-offcl/ChPeek/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/axs-offcl/ChPeek?style=for-the-badge&label=last%20commit&logo=github&logoColor=white&cacheSeconds=600)](https://github.com/axs-offcl/ChPeek/commits)
+[![Repo Size](https://img.shields.io/github/repo-size/axs-offcl/ChPeek?style=for-the-badge&label=repo%20size&cacheSeconds=600)](https://github.com/axs-offcl/ChPeek)
+[![Stars](https://img.shields.io/github/stars/axs-offcl/ChPeek?style=for-the-badge&label=stars&logo=github&logoColor=white&cacheSeconds=600)](https://github.com/axs-offcl/ChPeek/stargazers)
 
 A [Vencord](https://vencord.dev) plugin that reveals the hidden channels of a server and shows you exactly who is allowed in each one — without ever joining, connecting to, or leaking anything.
 
