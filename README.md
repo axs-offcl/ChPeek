@@ -5,14 +5,14 @@
 **Peek behind Discord's curtain — see every channel in a server, even the ones you can't open.**
 
 [![Vencord](https://img.shields.io/badge/Vencord-Plugin-5865F5?style=for-the-badge&logo=discord&logoColor=white)](https://vencord.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![License](https://img.shields.io/badge/License-GPLv3-4CAF50?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![License](https://img.shields.io/badge/License-GPLv3-4CAF50?style=for-the-badge)](LICENSE)
+[![Built for Vencord](https://img.shields.io/badge/build-Vencord-internal-424242?style=for-the-badge)](https://vencord.dev)
 
-[![Last Commit](https://img.shields.io/github/last-commit/axs-offcl/ChPeek?style=flat-square&label=last%20commit)](https://github.com/axs-offcl/ChPeek/commits)
+[![Last Commit](https://img.shields.io/github/last-commit/axs-offcl/ChPeek?style=flat-square&label=last%20commit&cacheSeconds=300)](https://github.com/axs-offcl/ChPeek/commits)
 [![Repo Size](https://img.shields.io/github/repo-size/axs-offcl/ChPeek?style=flat-square&label=repo%20size)](https://github.com/axs-offcl/ChPeek)
 [![Visitors](https://hits-badge.vercel.app/api/count/unique/?url=https%3A%2F%2Fgithub.com%2Faxs-offcl%2FChPeek&label=visitors)](https://github.com/axs-offcl/ChPeek)
-[![Forks](https://img.shields.io/github/forks/axs-offcl/ChPeek?style=flat-square&logo=github)](https://github.com/axs-offcl/ChPeek/network/members)
 
 A [Vencord](https://vencord.dev) plugin that reveals the hidden channels of a server and shows you exactly who is allowed in each one — without ever joining, connecting to, or leaking anything.
 
